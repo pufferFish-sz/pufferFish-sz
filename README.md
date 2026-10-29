@@ -4,6 +4,18 @@ Technical game audio developer and tools builder · MS Music Technology, Carnegi
 
 I build tools and pipelines that turn manual workflows into systems teams rely on, across Unreal Engine, Wwise, and ML audio. Previously at Lilith Games, Tencent Morefun Studios, and Toyz Electronics.
 
+**Portfolio:** [pufferfish-sz.github.io/pufferfishmusic](https://pufferfish-sz.github.io/pufferfishmusic/)
+
+## Sound demo: Ruhua character SFX redesign
+
+Character SFX redesign for Ruhua, a mechanical puppet in Tencent's *The Hidden Ones* (Wwise, REAPER, Python + WAAPI).
+
+<a href="https://pufferfish-sz.github.io/pufferfishmusic/#hidden-ones">
+  <img src="https://img.youtube.com/vi/NvPBncXmLV8/maxresdefault.jpg" alt="Ruhua character SFX redesign for The Hidden Ones: watch on my portfolio" width="600">
+</a>
+
+▶ [Watch on my portfolio](https://pufferfish-sz.github.io/pufferfishmusic/#hidden-ones) · [Watch on YouTube](https://youtu.be/NvPBncXmLV8)
+
 ## Featured projects
 
 | Project | What it is | Stack |
