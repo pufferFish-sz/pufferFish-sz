@@ -2,7 +2,7 @@
 
 Technical game audio developer and tools builder · MS Music Technology, Carnegie Mellon University (Dec 2026)
 
-I build tools and pipelines that turn manual workflows into systems teams rely on, across Unreal Engine, Wwise, and ML audio. Previously at Lilith Games, Tencent Morefun Studios, and Toyz Electronics.
+I build tools and pipelines that turn manual workflows into systems teams rely on, across Unreal Engine Unity, Wwise, FMOD, and ML audio. Previously at Lilith Games, Tencent Morefun Studios, and Toyz Electronics.
 
 **Portfolio:** [pufferfish-sz.github.io/pufferfishmusic](https://pufferfish-sz.github.io/pufferfishmusic/)
 
